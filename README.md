@@ -95,6 +95,9 @@ Dataset:
 
 `King County House Data.xlsx`
 
+Tableu Public Link:
+https://public.tableau.com/app/profile/taufiq.bariz/viz/KingCountyHousesSales_17698677084420/KingCountyHousesSales
+
 ---
 
 ## Author
